@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "username": "sampoerna",
+    "password": "1234",
+    "whatsapp": "082279447123",
+    "bank": "DANA",
+    "rekening": "082279447123",
+    "nama": "Ardianto",
+    "saldo": 0,
+    "status": "pending",
+    "created": "2025-07-14T21:50:23.442Z"
+  }
+]
