@@ -20,5 +20,16 @@
     "saldo": 0,
     "status": "pending",
     "created": "2025-07-15T10:13:38.776Z"
+  },
+  {
+    "username": "Maujo",
+    "password": "1234",
+    "whatsapp": "085766702307",
+    "bank": "GOPAY",
+    "rekening": "085766702307",
+    "nama": "Ardiw",
+    "saldo": 2000,
+    "status": "active",
+    "created": "2025-07-15T10:15:16.332Z"
   }
 ]
